@@ -1,0 +1,31 @@
+body{
+  margin-top: 100px;  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: linear-gradient(to bottom, powderblue, #c773ff, pink);
+  }
+img{
+  width: 300px
+}
+
+table{
+  text-align: justify;
+  font-family: Open sans, sans serif;
+  border-radius: 5px;
+}
+
+.centro{
+  text-align: center;
+  font-size: 30px
+}
+
+td{
+  padding: 20px;
+  background-color: transparent; 
+}
+
+h1{
+  display: flex;
+  font-family: 'Open Sans', sans-serif;
+}
